@@ -30,8 +30,8 @@ Getting Help
 You can get help easily :
 Slack Channel - [Join InsightLake Slack Community](https://join.slack.com/t/insightlake/shared_invite/enQtNzQzMDE3MDI4ODA1LWM2YmI5MDUzODM5ZjQzZjE3ZDk1MjhiNThjMTBkODJjMGU2OWJmOWQ0MDE5NGI4YjYyYjVhZjEzYzY3YzIzMjY)
 
-Twitter
-Facebook
+Twitter - https://twitter.com/InsightLake
+Facebook - https://www.facebook.com/insightlake/
 Email: contact@insightlake.com
 
 
