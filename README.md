@@ -17,7 +17,7 @@ Installation
 
 
 ## Demo Link
-https://insightlake.s3.amazonaws.com/releases/schema/index.html
+http://insightlake.s3.amazonaws.com/releases/zookeeper/index.html
 
 
 License
