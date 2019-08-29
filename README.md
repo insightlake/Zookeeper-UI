@@ -28,8 +28,8 @@ Getting Help
 ----------
 
 You can get help easily :
-Community - Google Groups
-Slack Channel
+Slack Channel - https://join.slack.com/t/insightlake/shared_invite/enQtNzQzMDE3MDI4ODA1LWM2YmI5MDUzODM5ZjQzZjE3ZDk1MjhiNThjMTBkODJjMGU2OWJmOWQ0MDE5NGI4YjYyYjVhZjEzYzY3YzIzMjY
+
 Twitter
 Facebook
 Email: contact@insightlake.com
