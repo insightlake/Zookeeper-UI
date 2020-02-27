@@ -1,10 +1,10 @@
 ## Zookeeper UI
 
-<img style="width:100%;" src="images/zookeeper-tab/expand-nodes.png">
+<img style="width:100%;" src="images/zookeeper-tab/zookeeper-page.png">
 
 ## Cluster UI
 
-<img style="width:100%;" src="images/cluster-tab/selected-cluster-page.png">
+<img style="width:100%;" src="images/cluster-tab/cluster-page.png">
 
 ## User UI
 User Details
