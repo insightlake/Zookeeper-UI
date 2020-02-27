@@ -1,6 +1,19 @@
 ## Zookeeper UI
 
-<img style="width:100%;" src="images/streams-zk.png">
+<img style="width:100%;" src="images/zookeeper-tab/expand-nodes.png">
+
+## Cluster UI
+
+<img style="width:100%;" src="images/cluster-tab/selected-cluster-page.png">
+
+## User UI
+User Details
+
+<img style="width:100%;" src="images/users-tab/user-details-page.png">
+
+Group Details
+
+<img style="width:100%;" src="images/users-tab/group-details.png">
 
 InsightLake Data Explorer solution is part of InsightLake Data Platform. It provides an intuitive UI and allows users to connect to various data sources and explore the data eaisly.
 
