@@ -1,0 +1,16 @@
+version: "2.0"
+
+services:
+  zookeeper-backend-service:
+    build:
+      context: ../libs
+      dockerfile: ./zookeeperbacked
+    ports:
+    - 9494:9494
+
+  zookeeper-ui-service:
+    build:
+      context: ../libs
+      dockerfile: ./zookeeperui
+    ports:
+    - 8080:8080
