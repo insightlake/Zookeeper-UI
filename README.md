@@ -18,7 +18,7 @@ Group Details
 InsightLake Data Explorer solution is part of InsightLake Data Platform. It provides an intuitive UI and allows users to connect to various data sources and explore the data eaisly.
 
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://www.insightlake.com/zookeeper-ui.html](http://www.insightlake.com/zookeeper-ui.html)
 
 Installation
 ------
