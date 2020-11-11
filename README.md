@@ -15,7 +15,7 @@ Group Details
 
 <img style="width:100%;" src="images/users-tab/group-details.png">
 
-InsightLake Data Explorer solution is part of InsightLake Data Platform. It provides an intuitive UI and allows users to connect to various data sources and explore the data eaisly.
+InsightLake Zookeeper UI solution is part of InsightLake Data Platform. It provides an intuitive UI and allows users to connect to various data sources and explore the data eaisly.
 
 
 To learn more, check out [http://www.insightlake.com/zookeeper-ui.html](http://www.insightlake.com/zookeeper-ui.html)
@@ -35,7 +35,7 @@ http://insightlake.s3.amazonaws.com/releases/zookeeper/index.html
 
 License
 ------
-InsightLake Data Explorer is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
+InsightLake Zookeeper UI is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
 
 Getting Help
 ----------
